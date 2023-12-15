@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 
-bool Cheack(string& str)
+bool Check(string& str)
 {
 	int n = str.length();
 	string arr[] = { "eno", "tuo", "tuptuo", "notup", "ni", "tupni" };
@@ -59,7 +59,7 @@ int main() {
 
 		Revers(pars);
 		//cout << pars;
-		if (Cheack(pars)) cout << "YES" << endl;
+		if (Check(pars)) cout << "YES" << endl;
 		else cout << "NO" << endl;
 		pars = "";
 		

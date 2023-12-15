@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1005.cpp" />
     <ClCompile Include="1011.cpp" />
     <ClCompile Include="1086.cpp" />
     <ClCompile Include="1086_Решито_Эратосфена.cpp" />
     <ClCompile Include="1102.cpp" />
     <ClCompile Include="1196.cpp" />
+    <ClCompile Include="1203_хоара.cpp" />
     <ClCompile Include="1215.cpp" />
     <ClCompile Include="1243.cpp" />
     <ClCompile Include="1297.cpp" />
@@ -153,6 +155,7 @@
     <ClCompile Include="1723.cpp" />
     <ClCompile Include="1868.cpp" />
     <ClCompile Include="1881.cpp" />
+    <ClCompile Include="1910.cpp" />
     <ClCompile Include="1991_1.cpp" />
     <ClCompile Include="2033.cpp" />
     <ClCompile Include="5.9_из_файла.cpp" />
@@ -164,6 +167,7 @@
     <ClCompile Include="Поиск количества слов.cpp" />
     <ClCompile Include="3.9_из_файла.cpp" />
     <ClCompile Include="4.9_из_файла.cpp" />
+    <ClCompile Include="Преведение к двоичному виду.cpp" />
     <ClCompile Include="Рекурия.cpp" />
     <ClCompile Include="Сортировка структур.cpp" />
     <ClCompile Include="Функции.cpp" />

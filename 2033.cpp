@@ -1,9 +1,9 @@
-#include <iostream>
+/*.#include <iostream>
 #include <string>
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
-
+þþþþþ
 int main()
 {
 	int costs[6];
@@ -46,12 +46,6 @@ int main()
 			index_most_common = index[i];
 		}
 	}
-	/*for (int i = 0; i < 6; i++)
-	{
-		cout << friends[index[i]] << " " << devices[index[i]] << " " << costs[index[i]] << endl;
-
-	}*/
-	//cout << most_common;
 
 	int Min_cost = costs[index_most_common];
 	strcpy_s(ans, devices[index_most_common]);
@@ -78,4 +72,4 @@ int main()
 
 
 	return 0;
-}
+}*/
