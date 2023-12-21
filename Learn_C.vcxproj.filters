@@ -111,7 +111,7 @@
     <ClCompile Include="1868.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Алгоритмы.cpp">
+    <ClCompile Include="Алгоритмы_числа.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="1196.cpp">
@@ -123,7 +123,7 @@
     <ClCompile Include="1102.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="6.9_из_файла.cpp">
+    <ClCompile Include="6.1_из_файла.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Сортировка структур.cpp">
@@ -147,10 +147,28 @@
     <ClCompile Include="1005.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="2099.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Aлгоритмы_поиск.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Алгоритмы_сортировка.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="5_1_imp.txt" />
     <Text Include="in.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="out.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="Matrix_input.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+    <Text Include="Matrix_output.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
   </ItemGroup>

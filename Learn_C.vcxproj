@@ -158,12 +158,15 @@
     <ClCompile Include="1910.cpp" />
     <ClCompile Include="1991_1.cpp" />
     <ClCompile Include="2033.cpp" />
+    <ClCompile Include="2099.cpp" />
     <ClCompile Include="5.9_из_файла.cpp" />
     <ClCompile Include="5_1 матрица трг.cpp" />
     <ClCompile Include="5_2 оценки.cpp" />
     <ClCompile Include="1298_Конь.cpp" />
-    <ClCompile Include="6.9_из_файла.cpp" />
-    <ClCompile Include="Алгоритмы.cpp" />
+    <ClCompile Include="6.1_из_файла.cpp" />
+    <ClCompile Include="Aлгоритмы_поиск.cpp" />
+    <ClCompile Include="Алгоритмы_сортировка.cpp" />
+    <ClCompile Include="Алгоритмы_числа.cpp" />
     <ClCompile Include="Поиск количества слов.cpp" />
     <ClCompile Include="3.9_из_файла.cpp" />
     <ClCompile Include="4.9_из_файла.cpp" />
@@ -175,6 +178,9 @@
   <ItemGroup>
     <Text Include="5_1_imp.txt" />
     <Text Include="in.txt" />
+    <Text Include="Matrix_input.txt" />
+    <Text Include="Matrix_output.txt" />
+    <Text Include="out.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
