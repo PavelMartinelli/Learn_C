@@ -6,7 +6,8 @@ using namespace std;
 
 void hoarasort(int** a, int first, int last, int ind) {
     int i = first, j = last;
-    int* tmp; int x = a[(first + last) / 2][ind];
+    int* tmp; 
+    int x = a[(first + last) / 2][ind];
     do {
         while (a[i][1] < x)
             i++;

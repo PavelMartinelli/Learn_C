@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <fstream>
 using namespace std;
 
@@ -22,7 +22,7 @@ void Sort_Matrix(Matrix*, const int&, const int&);
 
 int main() {
     ifstream input("Matrix_input.txt");
-    ofstream output("Matrix_output .txt");
+    ofstream output("Matrix-output.txt");
     int l, n;
     input >> l >> n;
 
@@ -119,4 +119,4 @@ void Sort_Matrix(Matrix* arr, const int& count, const int& n) {
 		}
 	}
 
-}
+}*/

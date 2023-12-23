@@ -156,6 +156,9 @@
     <ClCompile Include="Алгоритмы_сортировка.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="1521.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="5_1_imp.txt" />
